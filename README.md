@@ -1,12 +1,12 @@
-Sistema de Inventario, TecnoStock
+Sistema de Inventario - TecnoStock
 
-Proyecto web desarrollado para la gestión de inventario, control de stock en tiempo real y registro de movimientos.
+Proyecto web desarrollado para la gestión de inventario.
 
 Tecnologías Utilizadas
-* PHP (PDO)
-* MySQL
-* Bootstrap 5
-* XAMPP
+PHP (PDO)
+MySQL
+Bootstrap 5
+XAMPP
 
 Instrucciones de Instalación
 1. Copia esta carpeta dentro del directorio `htdocs` de XAMPP.
@@ -15,5 +15,5 @@ Instrucciones de Instalación
    `http://localhost/tecnostock/views/login.php`
 
 Credenciales de Acceso
-* Correo: admin@tecnostock.cl
-* Contraseña: 1234
+Correo: admin@tecnostock.cl
+Contraseña: 1234
